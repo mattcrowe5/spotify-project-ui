@@ -1,0 +1,11 @@
+.container {
+  align-items: center;
+  background-image: url('https://research.fb.com/wp-content/uploads/2018/05/music-hero2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
